@@ -1,3 +1,3 @@
-module Hello_World
+module github.com/EvertonCa/GoLangCourse
 
 go 1.21
